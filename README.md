@@ -1,5 +1,8 @@
+[![MasterHead](https://www.youtube.com/watch?v=cKxPOrN1Ypk)]
 <h1 align="center">Hi 👋, I'm Gotham Obama</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348%2F68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966&tbnid=cA1QLyyFBWMIxM&vet=12ahUKEwjfxv32pN7_AhWCQGwGHbq7CToQxiAoA3oECAAQIQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&itg=1&q=coding%20gif&client=firefox-b-lm&ved=2ahUKEwjfxv32pN7_AhWCQGwGHbq7CToQxiAoA3oECAAQIQ#imgrc=cA1QLyyFBWMIxM&imgdii=8XkhQxcDyZ0PpM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gothamobama&label=Profile%20views&color=0e75b6&style=flat" alt="gothamobama" /> </p>
 
