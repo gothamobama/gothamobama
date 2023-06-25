@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/cKxPOrN1Ypk/maxresdefault.jpg)]
+#[![MasterHead](https://i.ytimg.com/vi/cKxPOrN1Ypk/maxresdefault.jpg)]
 <h1 align="center">Hi 👋, I'm Gotham Obama</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
