@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gothamobama&label=Profile%20views&color=0e75b6&style=flat" alt="gothamobama" /> </p>
 
-- 🔭 I’m currently working on [Omnidya](https://www.omnidya.com/)
+<!-- 🔭 I’m currently working on [Omnidya](https://www.omnidya.com/) -->
 
 - 🌱 I’m currently learning **Kubernetes and Aws.**
 
