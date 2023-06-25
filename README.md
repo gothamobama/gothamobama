@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kubernetes and Aws.**
 
-- 👯 I’m looking to collaborate on **f**
-
 - 💬 Ask me about **Docker , kubernetes and Aws.**
 
 - 📫 How to reach me **gothamobama@gmail.com**
